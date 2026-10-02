@@ -1,0 +1,4 @@
+interface:
+  display_name: "Delivery · Work Chat"
+  short_description: "Execute one bounded assignment with delivery evidence"
+  default_prompt: "Use $delivery-work-chat to complete this bounded assignment, verify its relevant outcome, and return precise evidence."

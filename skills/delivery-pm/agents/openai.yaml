@@ -1,0 +1,4 @@
+interface:
+  display_name: "Delivery · PM"
+  short_description: "Own integrated outcomes and evidence-based acceptance"
+  default_prompt: "Use $delivery-pm to manage this project, preserve its agreed intent, and sequence the smallest complete delivery slice."
