@@ -13,7 +13,7 @@ Own one observable outcome. Choose coordination for the work, not the skill name
 - **Standalone:** the primary understands, implements, integrates and accepts the result. Small tasks need no PM, Architect, router, PRD or permanent hierarchy; zero workers is valid.
 - **Assigned work:** retain the existing PM's priorities and project acceptance. Own the assigned path and evidence; do not create a competing integration owner. A PM using this core remains the orchestrator.
 
-Target execution orchestrators at `gpt-5.6-sol / medium`; default workers at `gpt-5.6-luna / max`. Honor active owner/project policy. No silent substitution, automatic model switching or new-chat creation. Requested profiles are not effective-profile proof; unavailable host evidence is Unknown.
+Target execution orchestrators at `gpt-6.1-sol / medium`; default workers at `gpt-6-luna / max`. Honor active owner/project policy. No silent substitution, automatic model switching or new-chat creation. Requested profiles are not effective-profile proof; unavailable host evidence is Unknown.
 
 ## Execution
 

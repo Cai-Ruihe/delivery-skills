@@ -2,7 +2,7 @@
 
 A standalone Codex skill for small or large development, debugging, research and artifact tasks. Runtime revision: 2 October 2026.
 
-Targets remain `gpt-5.6-sol / medium` for execution orchestrators and `gpt-5.6-luna / max` for default workers; active owner/project policy applies. This revision does not switch a running model or prove its effective profile.
+Targets remain `gpt-6.1-sol / medium` for execution orchestrators and `gpt-6-luna / max` for default workers; active owner/project policy applies. This revision does not switch a running model or prove its effective profile.
 
 ## Install and invoke
 

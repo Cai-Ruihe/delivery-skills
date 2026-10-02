@@ -4,7 +4,7 @@ Maintenance only. Runtime instructions live in the entrypoint and activity refer
 
 | Choice | Status and reason to revisit |
 |---|---|
-| Sol/medium orchestrators and Luna/max default workers | Preserved snapshot preset; user/project policy and host availability govern |
+| gpt-6.1-sol / medium orchestrators and gpt-6-luna / max default workers | Preserved snapshot preset; user/project policy and host availability govern |
 | Selective delegation with zero workers valid | Match task structure; revisit with representative outcome evidence |
 | Separate requested and effective identity/profile | Use host evidence; unavailable fields remain Unknown |
 | Freeze conflicting work after ambiguous effects or lifecycle | Reconcile authoritative state before retry or replacement |

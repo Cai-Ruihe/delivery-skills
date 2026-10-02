@@ -68,7 +68,7 @@ Use $delivery-work-chat to complete this bounded sample parser assignment, verif
 
 Skills are instructions, not an agent runtime or an automatic scheduler. Invocation does not create chats, launch workers, change model settings, grant access or authorize external effects. Your host must provide the relevant tools, permissions and supported lifecycle controls.
 
-The snapshot preserves `gpt-5.6-sol / medium` as the execution-orchestrator preset and `gpt-5.6-luna / max` for default workers. Active user/project policy applies. Model availability varies; requested settings are not evidence of the effective profile. Disclose a required unavailable profile rather than silently substituting it.
+The snapshot preserves `gpt-6.1-sol / medium` as the execution-orchestrator preset and `gpt-6-luna / max` for default workers. Active user/project policy applies. Model availability varies; requested settings are not evidence of the effective profile. Disclose a required unavailable profile rather than silently substituting it.
 
 Three starting workers and review after five failed substantive repairs are provisional defaults, subject to earlier stop conditions and host capacity. Worker success, local checks, target application and consumer acceptance are distinct. No benchmark here establishes efficiency, production compliance or an optimal cadence. See the [design limits](skills/delivery-workflow/references/design-basis.md) and [evaluation guidance](skills/multi-agent-dev/references/evidence-research.md).
 
