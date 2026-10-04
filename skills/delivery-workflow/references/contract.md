@@ -1,32 +1,19 @@
-<!-- Runtime revision: 2026-10-02 -->
-# Project Contract and Native Records
+# Project contract in native records
 
-Read once per active delivery context; reuse while unchanged. Apply current user/company authority before defaults. This is a content agreement carried by existing records, not a required new file, schema, service or approval layer. Small standalone tasks use core and necessary session state only.
+Read at project setup or when current native records/decision authority have changed or are incomplete. Before reuse confirm outcome, scope, owners, grants and pending operations from minimal current evidence. This agreement uses existing records, not a new schema, service or approval layer. Small standalone work uses core/session state.
 
-## One authoritative home per concern
-
-| Concern | Authority and owner |
+| Concern | Authoritative home |
 |---|---|
-| Observable result, users, scope/exclusions, acceptance surface/identity | Accepted user instruction or controlling PRD; PM maintains |
-| Consequential decisions, rationale, evidence, aliases and revisit trigger | Existing decision ledger; preserve proposed/accepted/superseded status |
-| Owners, write surfaces, dependencies, baseline, artifacts and acceptance gaps | Native task/run record; workers supply changes, PM integrates |
-| Allowed effects, exact target/identity, refusals and applicable limits | Original user/project/company authorization; roles confer none |
-| Window/T0/stop and separate project deadline, if any | Applicable original instruction; retain its reference and meaning |
-| Correction, next owner/action and observable pass/stop condition | Existing task state; PM verifies actual follow-through |
+| Observable result, users/value, scope/exclusions, acceptance surface/identity | Accepted instruction or controlling PRD; PM maintains |
+| Major choices, rationale/evidence, aliases, authority and revisit conditions | Existing decision ledger; proposed/adopted or accepted/superseded |
+| Owners, write surfaces, dependencies, fixed inputs/results, integration gaps | Native task/run state; workers supply changes, PM integrates |
+| Allowed effects, exact target/identity, restrictions, limits | Original applicable authorization; core recovery governs disputed/uncertain action |
+| Corrections, next action/owner, observable pass/stop condition | Existing task state; PM verifies follow-through |
 
-Persist material accepted changes before dependent work; name what a changed requirement supersedes. Search prior decision IDs/aliases before questions. A settled choice reopens only for a stated material contradiction under the applicable research-first grilling protocol. Failed persistence remains a marked draft, not an adopted record. Messages carry changes and evidence pointers, not competing authoritative copies.
+Persist material accepted changes before dependent work and identify superseded decisions. Failed persistence is a draft. Search prior IDs/aliases before questions; reopening needs a material contradiction and applicable research-first protocol. Messages carry changes/pointers, not shadow authoritative copies.
 
-## Four independent conclusions
+Keep four conclusions separate: project acceptance, execution/stopping under limits, artifact checks/application/consumer/parent acceptance, and contact attempt/acceptance/acknowledgment/result. Use supported native fields, not invented universal enums. Missing evidence is not zero, delivery or termination.
 
-- **Project result:** accepted only against current complete user acceptance; partial stays partial.
-- **Work window:** execution or stopping under its actual limits; expiry proves neither project failure nor all workers terminated.
-- **Artifact/evidence:** distinguish candidate checks, target application, consumer verification and native parent acceptance. Local-only scope need not deploy; production scope cannot close locally.
-- **Contact:** distinguish attempt, interface acceptance, new recipient confirmation and requested result. Unknown delivery is not absence or permission to duplicate.
+PM owns daily sequencing, supervision, integration and acceptance. Architect provides independent high-level judgment. Default advice requires reasoned disposition; expressly binding architecture decisions depend on their specific project grant, never inherent role rank. Material deviation returns to the proper owner with evidence. Business/scope changes go to the user or designated requirement owner; permissions to their actual authority; binding architecture to its granted decision owner. Root coordinates or conveys exceptions only within its own authority, corrects its own relay errors, and is not a second daily manager. Its presence cannot override user constraints or tool refusals.
 
-Use native states and supported fields, not invented enums/receipts. Worker completion, deployment and a stopped window cannot substitute for another conclusion. Preserve raw evidence, version, freshness and missing/stale/partial meaning; missing is not zero.
-
-## Governing boundaries
-
-One accountable project owner, one writer per mutable surface and one effect controller per shared target. Preserve user changes; reconcile ambiguous effects/ownership before retry or replacement. Use approved interfaces, respect refusals and granted authority; no silent model substitutions or automatic chat creation. Same-window recovery retains limits; a genuinely authorized new window checks its own source without erasing project history.
-
-For major conclusions use Fact / Inference / Unknown / Blocker with exact evidence and smallest actual need; otherwise concise updates. No blocker means Nothing. Do not infer effective profiles, efficiency or consumer success from role labels or report counts.
+Use core delegation, verification, recovery and reflection for their respective mechanics. Major consequential conclusions distinguish Fact/Inference/Unknown/Blocker and the smallest actual need; ordinary updates stay concise. No blocker means Nothing. Requested model profiles, report counts or role invocation do not establish effective identity, independence, efficiency or consumer success.

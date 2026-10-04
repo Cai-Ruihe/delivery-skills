@@ -1,36 +1,15 @@
-<!-- Runtime revision: 2026-10-02 -->
-# Bounded delegation, contact and lifecycle
+# Useful delegation and independent review
 
-Read before dispatch/review or for cross-task dependencies, resumption and lifecycle ambiguity; reuse unchanged instructions.
+Read for worker coordination/dispatch, chat contact or organizing independent review. A reviewer uses its assigned role and relevant fixed inputs, not the organizer's whole context.
 
-## Admission and identity
+Delegate when an authorized, ready task has an independent contract, isolated write surface and result that can improve acceptance or resolve a critical unknown. Keep coupled unknown contracts with one owner; consolidate when coordination exceeds useful progress. Zero workers is valid. Start with at most three workers within host capacity, not a quota. No automatic task tree, chat creation or subdelegation; an expressly authorized hierarchy retains the same ownership controls.
 
-Check active model policy, callable profiles, host capacity and permissions. Bind requested/effective profile evidence to host worker identity; a role or self-report is not attestation. If a required profile is prohibited, unavailable or unverifiable where verification is required, stop that delegation path and disclose the mismatch. No silent substitution; separately authorized local work may continue. Advice grants no model/contact/effect authority.
+Use supported tools and current owner-selected profiles. Record effective identity/profile only from host evidence; labels or worker self-report are insufficient. A missing profile/capability is a disclosed gap, not permission to substitute silently.
 
-Require independent progress, bounded scope, concrete deliverable/check, isolated ownership, worthwhile benefit and authority. Zero workers is valid. Three starting workers is a provisional first wave, not a ceiling/quota. Expand incrementally only with ready independent work, host and integration capacity. Subdelegation is off unless explicitly bounded under the same owner/lifecycle.
+Give only relevant context: outcome/exclusions, accepted decisions, fixed inputs/baseline, owned surface, dependencies/interfaces, required evidence, allowed effects and accumulated limits. Reuse native task fields; no duplicate envelope service. Return artifacts and performed checks, changed contracts/blockers and remaining gaps. One writer per mutable surface and one serialized controller per external target; preserve user changes.
 
-Freeze relevant inputs and record user-modified paths. One writer per mutable surface; generator and output conflict unless demonstrably isolated. Use existing fields or one assignment:
+The integrator checks completions, blockers and contract changes at supported event/call boundaries and agreed checkpoints, inspects fixed results, then integrates incrementally. Long coding or waiting must leave a feasible supervision path or transfer that work; do not promise unattended wakeups without host support. Workers can exchange frozen evidence directly; they cannot silently alter shared contracts or close project acceptance. Unavailable/late results require a current-state check and decision, not automatic replacement.
 
-```text
-Outcome/task ID; objective; accepted scope/source; reason to delegate
-Snapshot/evidence; allowed reads/writes; owned surface; exclusions
-Deliverable/check; dependencies; deadline/stop; remaining attempts
-Retry policy; effect authority/controller; bounded subdelegation
-Requested profile; host identity/effective evidence or Unknown
-```
+For contact, verify recipient, authority and actual supported route. Preserve operation/task IDs. Attempt, interface acceptance, new recipient acknowledgment and requested result are distinct. Unknown delivery freezes conflicting continuation; [recovery](recovery.md) governs reconciliation. A draft, animation, stale reply or dead terminal handle is not a receipt.
 
-Prefer bounded context over full-history forks. Do not duplicate runtime envelopes, forward credentials/unrelated private bodies or expand authority. New user-visible chats require actual host/user authorization; subagent permission creates no project hierarchy.
-
-## Contact and uncertainty
-
-After bounded inspection leaves a blocking contract unknown, ask the existing authorized technical owner before implementing guesses. Include evidence, one question, expected output and latest useful reply time. Independent authorized work continues.
-
-Use supported tools and exact recipient/host IDs. Distinguish attempt, transport acceptance, new acknowledgement and obtained result. Preserve correlation/operation IDs even without worker IDs; drafts, old replies and process handles prove no delivery. Avoid unchanged probes; recheck changed evidence/state. No route switching to evade refusal. Local notLoaded/empty discovery does not prove global absence.
-
-Ambiguous creation, delivery, cancellation or termination is Unknown. Freeze conflicting ownership and reconcile authoritative state before resend/replacement; missing discovery is not absence. Stop invalidated work on input drift. For stop propagation use [recovery](recovery.md).
-
-## Results and recovery state
-
-Workers return artifacts, checks actually run, blockers/changes, Unknowns, stop reason and next action. Inspect provenance, versions and evidence; PASS is advisory. Reviewers receive frozen inputs and limits without expected verdicts or peer conclusions before first-pass findings; no fixes without write authority. Timeout/incomplete review is not PASS.
-
-Reuse native records; optional recovery metadata may retain IDs/host/profile, snapshot, ownership, limits/attempts, lifecycle and terminal proof/Unknown. Update at dispatch, changed state and terminal transitions. If storage is unavailable, disclose the recovery limit. Keep no credentials, source bodies or full chats. Freeze only with terminal workers or reported residual Unknowns. Compatibility receipts, when required, contain host-backed identity, assignments, checks, conflicts, observed efficiency and residual uncertainty.
+Independent reviewers must be non-authors. Give fixed intent, constraints and raw inputs before the author's recommendation or peer verdict when practical. Require an independent method and falsifiable findings; fresh context or a different model alone is insufficient. Reveal the proposal afterward for challenge. Review cannot approve external effects or substitute for acceptance. Disclose unavailable independence. Bind final review to exact final artifacts; later changes invalidate affected conclusions until reviewed.

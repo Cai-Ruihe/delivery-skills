@@ -1,4 +1,4 @@
 interface:
   display_name: "Delivery · Architect"
-  short_description: "Diagnose architecture and test consequential assumptions"
-  default_prompt: "Use $delivery-architect to inspect this design or stalled outcome and propose the smallest evidence-backed next step."
+  short_description: "Independently judge boundaries and architecture trade-offs"
+  default_prompt: "Use $delivery-architect to independently examine the goals, assumptions and boundaries, then recommend a simpler executable direction."

@@ -1,42 +1,9 @@
 # Multi-Agent Dev
 
-A standalone Codex skill for small or large development, debugging, research and artifact tasks. Runtime revision: 2 October 2026.
+Local runtime revision: 2026-10-04. No public release is implied.
 
-Targets remain `gpt-6.1-sol / medium` for execution orchestrators and `gpt-6-luna / max` for default workers; active owner/project policy applies. This revision does not switch a running model or prove its effective profile.
+Invoke `$multi-agent-dev` for a small or large scoped task. Start with [SKILL.md](SKILL.md); its trigger table selects further reading. The entry, not this README, is the execution contract. Simple local work needs no delivery hierarchy or workers.
 
-## Install and invoke
+Execution, research, philosophy, delegation, verification, recovery and reflection each have one conditional reference. Background reports and old compatibility guides are not installed as runtime text. Requested profiles remain subject to current owner/host policy.
 
-Copy this directory to `~/.codex/skills/multi-agent-dev`. No delivery-suite dependency is required.
-
-```text
-Use $multi-agent-dev to fix this small project's bug and verify the result.
-```
-
-```text
-Use $multi-agent-dev for this implementation assignment.
-```
-
-Small work may finish directly with zero workers, without PM, Architect, PRD or router. Assigned work respects its existing integration owner and acceptance.
-
-## Read only the needed activity
-
-- [Entry](SKILL.md): context, smallest complete result and conditional routes.
-- [Delegation](references/delegation.md): actual dispatch/review, profiles and worker identity.
-- [Verification](references/verification.md): stage feasibility, exact targets and real consumer/parent evidence.
-- [Recovery](references/recovery.md): repairs, uncertain operations, worker stops and continuation.
-- [Self-review](references/self-review.md): sustained work/windows; PM owns project reflection, standalone primary substitutes.
-- [Guide](references/MULTI_AGENT_DEV_GUIDE.md): maintenance only.
-
-Lifecycle and delivery-path are compatibility pointers, not extra normal runtime reads. Reuse unchanged instructions; no obligatory long receipt or hourly worker essay.
-
-## Boundaries
-
-One writer per mutable surface, one controller per effect target; generated outputs may conflict with their generator. Preserve user changes and refusals. Resolve ambiguous creation, writes or cancellation before conflicting retry/replacement. Propagate stops to affected workers; unconfirmed termination remains Unknown.
-
-Worker PASS, local tests, installation and consumer acceptance are distinct. Bind evidence to the actual candidate, identity and target. Preserve original deadlines, failures and correction history across handoffs; a newly authorized window does not erase them.
-
-Three workers are an initial provisional default, not a quota or permanent ceiling. Scale with independent useful work, host and integration capacity. Earlier defects, authority problems and time bounds override the provisional five-failure review backstop.
-
-## License and security
-
-Preserves the [MIT License](LICENSE) and [security policy](SECURITY.md). Local installation does not publish private artifacts or change a project.
+The [MIT license](LICENSE) and [security policy](SECURITY.md) are preserved. Installation does not grant external effects or prove model behavior.

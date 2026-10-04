@@ -1,4 +1,4 @@
 interface:
-  display_name: "Delivery · 角色入口"
+  display_name: "Delivery · Role Router"
   short_description: "Select a focused role for outcome-based delivery"
   default_prompt: "Use $delivery-workflow to choose the right role and start a substantial development project from its intended outcome."

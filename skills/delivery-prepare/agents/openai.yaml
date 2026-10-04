@@ -1,4 +1,4 @@
 interface:
-  display_name: "Delivery · 新任务准备"
+  display_name: "Delivery · New Task Preparation"
   short_description: "Prepare a new request and concise introduction to PM"
   default_prompt: "Use $delivery-prepare to clarify this new request and prepare its requirements and introduction for the existing PM."

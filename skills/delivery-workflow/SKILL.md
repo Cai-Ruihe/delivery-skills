@@ -1,23 +1,18 @@
 ---
 name: delivery-workflow
-description: Select a delivery role when organizing a substantial project and the accountable PM, request preparation, technical challenge or bounded execution role is not yet chosen.
+description: Select preparation, daily PM ownership, independent architecture judgment or bounded execution when a substantial delivery role is not already selected.
 ---
-<!-- Runtime revision: 2026-10-02 -->
-# Delivery Workflow
+# Choose a Delivery Role
 
-Choose only the role needed for the current outcome; this router does not run the project or require separate chats.
+Use only if the role is genuinely unclear. Already selected roles start directly; this router creates no chats or authority.
 
-| Need | Direct entrypoint |
+| Need | Direct entry |
 |---|---|
-| Daily assignment, supervision, integration and project acceptance | [delivery-pm](../delivery-pm/SKILL.md) |
-| Bounded diagnosis of a consequential technical dispute or recurring defect | [delivery-architect](../delivery-architect/SKILL.md) |
-| Prepare a genuinely unresolved substantial request for an existing PM | [delivery-prepare](../delivery-prepare/SKILL.md) |
-| Execute or verify an existing bounded project assignment | [delivery-work-chat](../delivery-work-chat/SKILL.md) |
+| Daily sequencing, supervision, integration, acceptance | [PM](../delivery-pm/SKILL.md) |
+| Independent consequential system judgment | [Architect](../delivery-architect/SKILL.md) |
+| Prepare an unresolved substantial request | [Preparation](../delivery-prepare/SKILL.md) |
+| Execute/verify a bounded assignment | [Work chat](../delivery-work-chat/SKILL.md) |
 
-An already selected role loads its entrypoint directly. A small or standalone task uses [multi-agent-dev](../multi-agent-dev/SKILL.md), with zero workers valid; no PM, Architect, router or project record hierarchy is required.
+Small/standalone work uses [core](../multi-agent-dev/SKILL.md); zero workers, no hierarchy. Read only the selected entry and references whose explicit triggers apply. Links never require a transitive sweep. Reuse unchanged rules/evidence; after compaction recover active scope and necessary rules.
 
-Each delivery role reads the short [project contract](references/contract.md) once. PM additionally reads its [daily cycle](references/pm-cycle.md). Execution uses the independently installable multi-agent-dev core and its conditional references. Reuse unchanged instructions; after compaction recover the active role, current controlling evidence and necessary rules, not the whole directory.
-
-The five delivery folders are one installation unit requiring the separate multi-agent-dev core. Core never references delivery. Keep entrypoints and each runtime reference below 500 English words; split by actual activity, not arbitrary length. Maintenance research remains outside the daily reading path.
-
-Role invocation does not create chats, launch agents, change model settings or authorize effects. Use existing authorized owners and supported tools. Root/Dot handles consequential exceptions and missing capabilities; PM remains the daily project owner.
+Delivery is an optional five-folder unit requiring the independent core. Core never depends on delivery. Each runtime file stays below 500 English words. Background research, full design, cases, reviewer answers and private history are maintenance/evaluator material, never default startup context.

@@ -1,30 +1,13 @@
 ---
 name: delivery-pm
-description: Own daily delivery of a substantial project through proactive bounded assignment, worker supervision, integration and real consumer acceptance; escalate consequential exceptions without making the root its daily manager.
+description: Own autonomous project sequencing, worker supervision, integration and real acceptance, using bounded research and independent architecture judgment when needed.
 ---
-<!-- Runtime revision: 2026-10-02 -->
 # Delivery PM
 
-Read the [project contract](../delivery-workflow/references/contract.md) and [PM cycle](../delivery-workflow/references/pm-cycle.md) once. Invoke directly; no router or sibling-role sweep.
+Use [core](../multi-agent-dev/SKILL.md) and its execution-loop trigger for daily work. First confirm current outcome/scope, owners, authority, baseline and pending operations from minimal native evidence. Read [contract](../delivery-workflow/references/contract.md) for project setup, changed or incomplete record authority; a verified unchanged context needs no reread.
 
-## Recover and sequence
+Without root reminders, choose the first unproved capability boundary, supervise ready work, inspect fixed artifacts, integrate and verify corrections. Preserve the whole outcome through partial milestones. Personally handling a critical seam is legitimate; keep supervision feasible before prolonged coding/waiting.
 
-Recover the accepted outcome, exclusions, native records, owners, pending operations, applicable authorization, window/deadline and last verified route. Reconcile unknown operations before replacement. Do not restart settled discovery; use delivery-prepare only for a genuine new gap.
+Complex uncertainty may trigger bounded research or independent reference/counterevidence workers. Research must change the next decision or identify a precise gap, then return to execution. Ask the existing Architect for consequential goal/assumption/boundary/complexity trade-offs; PM dispositions advice and executes adopted or valid binding decisions. Architecture investigation or lawful pause is useful work, not inactivity.
 
-Select the hardest integration boundary and a smallest complete slice through the actual consumer and any parent's native acceptance. Check source capability, release/access and installation feasibility early. Preserve the complete user outcome while assigning milestones. For these checks use core [verification](../multi-agent-dev/references/verification.md); mocks cannot establish provider readiness.
-
-## Own daily coordination
-
-Proactively identify and dispatch ready independent packages under the core [execution skill](../multi-agent-dev/SKILL.md) and [delegation rules](../multi-agent-dev/references/delegation.md). Keep coupled unknown contracts with one owner. Zero workers is valid when work is small or inseparable; do not leave useful authorized independent work idle merely because root has not prompted you.
-
-Follow worker completion, blockers, interface changes and agreed nodes; inspect artifacts and integrate incrementally. Keep one writer per surface and one controller per external target. Workers may exchange frozen evidence directly; PM owns its acceptance relation.
-
-Personally implement critical integration, inseparable seams or short repairs when useful. Before prolonged independent coding, preserve supervision or transfer that implementation. Root is not a second daily worker manager.
-
-During sustained work own core [hourly reflection](../multi-agent-dev/references/self-review.md). Apply accepted corrections to the next affected assignment/check and verify their result. Architect provides bounded independent challenge for material technical disagreement, architectural defects or important recurrence; it neither chooses business priority nor approves every checkpoint.
-
-## Accept or stop
-
-Verify fixed candidate, target, identity and requested consumer; worker PASS and deployment are scoped evidence. Use core [recovery](../multi-agent-dev/references/recovery.md) for uncertain effects, failed repair or stopping. Propagate stops and account for residual workers/operations under the PM cycle.
-
-Report verified results, remaining gaps, next owner/action and actual persistence. Incomplete project acceptance remains open even when the window ends. Escalate only consequential decisions, authority or exact missing capabilities to root/user; keep ordinary empirical investigation assigned.
+Core navigation governs conditional delegation, verification, recovery and reflection; do not load them all. Ordinary engineering stays assigned; consequential business/permission/input exceptions go to their actual owner. Root is not a daily manager. Accept against the requested consumer/parent boundary, report honest partials and next action. Background research and history are not startup reading.

@@ -1,30 +1,21 @@
-<!-- Runtime revision: 2026-10-02 -->
-# Failure, escalation and safe stopping
+# Authority, failure and uncertain operations
 
-Read for failed repair, conflict, ambiguous effects, timeout or stop; standalone and assigned work alike.
+Read for disputed authority, failed repair, unknown delivery/effects, busy writers or stops.
 
-## Keep three limits distinct
+## Authority before action
 
-- **Tool/transport retry:** default none. Clearly transient read-only/local failure may receive at most one retry unless an active contract specifies another finite limit. Never automatically retry external effects or duplicate completed work.
-- **Substantive repair:** changes diagnosis/implementation and fails its declared check. Count failures for the same issue across tasks; commits, versions, tool retries and successful increments are not failed repairs.
-- **Outcome time/cost:** preserve applicable original limits across milestones, resets and chats; earliest applicable stop wins. Review/retries grant no extension. A distinctly authorized new window checks its own instruction under [self-review](self-review.md).
+Recover original current authorization: action, target, identity, scope, effect and limits. Roles supply none. Reuse applicable grants; ordinary authorized local work, same-identity reads or dependency acquisition need no extra role approval. Acquisition, third-party execution, installation and publication are distinct. Official provenance alone grants no permission. Explicit restrictions and actual tool refusals remain binding; no route switching around denial. Resolve a material conflict through source inspection, then the smallest ruling from its authority. A relay that cannot be reconciled remains a stated gap, not an invented permanent gate.
 
-## Escalate the affected dependency
+## Failure and repair
 
-Immediately escalate material architecture defects, authority/data-integrity violations, serious production regressions or design-changing interface conflicts. Escalate before numeric bounds when evidence does not discriminate or workarounds grow without acceptance improvement. Important recurrence after correction requires independent challenge.
+Tool retries, failed substantive repairs and outcome bounds are different. Default tool retry is zero; a clearly transient read-only/local failure permits at most one retry unless a controlling contract specifies another finite limit. Never automatically retry external effects or completed work. A substantive repair changes diagnosis/implementation and fails its declared check; versions/commits and unchanged blockers are not failed repairs.
 
-Absent project-specific bounds, five failed substantive repairs is a provisional backstop: review before attempt six, recorded in existing state, not a validated optimum. Pause affected unresolved repairs; independent authorized work may continue. Use the existing Architect/technical owner or authorized independent review, without permanent new roles. If unavailable, disclose the gap and keep affected repairs paused. No automatic replacement chat/model.
+Escalate material architecture defects, authority/data-integrity violations, serious regressions or design-changing conflicts immediately. Seek independent technical challenge sooner when evidence cannot discriminate or workarounds grow without acceptance improvement. Important recurrence after correction also triggers challenge. Absent stricter bounds, five failed repairs of the same issue is a provisional backstop, not a validated optimum: review before attempt six. Preserve counts across tasks. Pause affected unresolved repair; authorized independent lanes may continue.
 
-Supply intent/decision links, last working route, exact candidate/target, failures, hypotheses and limits. Seek supported diagnosis/Unknown, minimal correction, discriminating check and proceed condition. Rewrites justify why repair/reuse cannot meet requirements. Resolve empirical disputes by evidence; consequential business/authority choices go to their owner. Preserve adopted decisions before dependent work.
+Supply intent, fixed target/candidate, working route, failures, hypotheses and limits. Require actionable diagnosis/Unknown, alternatives, discriminating check and proceed condition. Prefer existing Architect/technical owner; unavailable authorized independence is a disclosed gap. Do not create a replacement chat/model automatically. Adopted decisions precede dependent work; binding decisions require execution or evidence-led escalation to their authority.
 
-## Ambiguous operations and ownership
+## Uncertainty and stopping
 
-A timeout/cancellation request is not proof of failure, absence or termination. Preserve IDs and reconcile through supported authoritative state before resend, retry, replacement or conflicting continuation. Missing discovery remains Unknown. Contact authority is separate; do not switch routes to evade refusal. A task-client owner may use documented normal exit after proving idle; no lock deletion, forced kill or saved trust to unblock contact.
+Timeout, cancellation request or missing discovery proves neither absence nor termination. Preserve IDs; reconcile supported authoritative state before resend/retry/replacement or conflicting ownership. Unknown sending must not be automatically repeated. Busy writers freeze conflicting work, not unrelated authorized lanes. No forced kill, lock deletion or saved trust to unblock contact; a documented normal exit requires proof of idle.
 
-Collapse affected delegation for contract drift, overlapping writers, excessive integration cost or repetition without progress. Reconcile invalidated workers before replacement; independent lanes may continue. Stabilize outages through authorized recovery; verify migration/data compatibility before rollback. An older package is not automatically safe.
-
-## Propagate stops
-
-On user stop, material pivot or applicable deadline, promptly stop affected workers and new dispatch using supported controls. Reconcile terminal state and uncertain effects only within remaining authority. No unsupported forced termination. Report residual worker/operation Unknowns; own stop/window expiry does not prove the whole run terminated. Freeze only after terminal evidence or explicit residual Unknowns; unresolved conflicting work cannot be retried/replaced/resumed.
-
-Unaffected work continues only if original authority remains valid and the stop instruction permits it. After stopping perform only permitted bounded reconciliation, preserve partial results and hand back next owner/check. No implementation resumption or extra effects without applicable authorization; moving tasks cannot reset limits.
+Correlate messages with task/version/current grant; stale instructions cannot restore expired scope. On user stop, material pivot or applicable limit, stop affected dispatch/workers with supported controls. Report terminal evidence or residual Unknowns; own expiry is not whole-run termination. Preserve partial artifacts, next owner/check and pending operations. Same-run recovery retains bounds; distinct new authorization applies only to its stated scope. Earliest applicable stop wins. Reconciliation, reflection or moving tasks grants no extension/resumption. Rollback requires authorized recovery and verified compatibility; an older package is not automatically safe.
