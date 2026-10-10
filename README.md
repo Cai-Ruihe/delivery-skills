@@ -1,6 +1,6 @@
 # Delivery Skills
 
-Six independently callable Codex skills for delivering an observable result. **Version: delivery-skills-2026-10-04.** The execution core also works alone for small projects without PM, Architect or workers.
+Six independently callable Codex skills for delivering an observable result. **Version: delivery-skills-2026-10-10-r1.** The execution core also works alone for small projects without PM, Architect or workers.
 
 ## Choose an entry
 
@@ -45,7 +45,9 @@ Use $delivery-work-chat to complete this bounded sample parser assignment and re
 
 Defaults remain **GPT-6.1-Sol / medium** for the execution orchestrator and **GPT-6-Luna / max** for workers. User/project/host policy prevails; requested profiles are not proof of effective identity. Existing role UI settings are retained; roles grant no access or external effects. Invocation creates neither workers nor an unattended timer.
 
-Three initial workers and review before a sixth failed substantive repair remain provisional backstops, subject to earlier constraints and material risks. Local checks, target application, consumer acceptance and parent acceptance are different claims. This version passed structural, link, content and byte checks; no model behavior benchmark establishes autonomy, quality, token savings or efficiency improvement.
+At most three initial workers is a provisional ceiling, not a quota. The five-failure repair backstop remains subject to earlier constraints; important recurrence with an unchanged critical premise calls for a route decision sooner. Local checks, target application, consumer acceptance and parent acceptance are different claims. User-required three-hour independent Architect checkpoints, including HOLD, remain binding under the actual project instructions; invocation creates no scheduler. This version passed structural, link, content and byte checks plus independent static semantic review; no model behavior benchmark establishes autonomy, quality, token savings or efficiency improvement.
+
+PM owns the integrated executable version and its real consumer outcome. Architecture advice remains independent and receives a reasoned disposition; it does not replace PM integration or create routine approval gates. Contact planning accounts for a realistic human decision opportunity and verified delivery. Recurring resource responsibility uses existing records and grants; stopping development is not proof that billing stopped. No new whole-operation lifecycle or authorization layer is introduced.
 
 The repository contains generic instructions and synthetic examples, without private project evidence, source mappings, backups, internal reports, research workspaces, credentials or evaluation oracles.
 

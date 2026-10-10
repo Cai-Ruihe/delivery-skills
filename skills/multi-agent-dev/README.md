@@ -1,6 +1,6 @@
 # Multi-Agent Dev
 
-Local runtime revision: 2026-10-04. No public release is implied.
+Release: delivery-skills-2026-10-10-r1. Published package documentation; installation status depends on the receiving host.
 
 Invoke `$multi-agent-dev` for a small or large scoped task. Start with [SKILL.md](SKILL.md); its trigger table selects further reading. The entry, not this README, is the execution contract. Simple local work needs no delivery hierarchy or workers.
 

@@ -4,9 +4,9 @@ description: Execute development, debugging, research and artifacts with scoped 
 ---
 # Multi-Agent Development
 
-Standalone primary owns execution and acceptance; assigned work keeps its integration owner. Respect current outcome, scope, authorization and user changes. Check the requested capability; missing proof is not success. Stops or uncertain operations freeze affected conflicting actions and trigger recovery.
+Standalone primary owns execution/acceptance; assigned work keeps its integration owner. Respect current outcome/scope/grants and user changes. Missing proof is not success. Freeze affected conflicting actions on stop or uncertainty.
 
-For a clear local task, make the smallest justified change and relevant check directly. No PM, Architect, project documents or workers are required.
+Clear local tasks need a justified change and relevant check; no PM, Architect, project documents or workers.
 
 Target profiles: GPT-6.1-Sol/medium orchestrator, GPT-6-Luna/max workers; owner/host policy prevails. Requested profiles are not effective proof. No silent substitution or automatic replacement chat.
 
@@ -16,10 +16,10 @@ Target profiles: GPT-6.1-Sol/medium orchestrator, GPT-6-Luna/max workers; owner/
 |---|---|
 | Substantial/ongoing work, multiple dependencies or coordination | [execution loop](references/execution-loop.md) |
 | Value conflict, unfamiliar situation or foundational design | [philosophy](references/philosophy.md) |
-| Complex uncertainty, unclear critical premise or recurrence needing references | [research](references/research.md) |
-| Actual worker coordination/dispatch, contact or organizing independent review | [delegation](references/delegation.md) |
+| Complex uncertainty or recurrence needing references | [research](references/research.md) |
+| Worker dispatch/coordination, contact or independent review | [delegation](references/delegation.md) |
 | Real runtime/source/consumer seam or consequential acceptance | [verification](references/verification.md) |
-| Disputed authority, failure/recurrence, unknown operation or stop | [recovery](references/recovery.md) |
-| Sustained work/checkpoint or corrective follow-through | [self-review](references/self-review.md) |
+| Disputed authority/repair bounds, unknown operation, busy writer or stop | [recovery](references/recovery.md) |
+| Required checkpoint, sustained work or corrective follow-through | [self-review](references/self-review.md) |
 
-Links are navigation, not a reading queue. Read triggered text fully; reuse unchanged rules/evidence. Never load the directory, background reports or cases for completeness. Report actual checks, limits and persistence; no compulsory receipt or worker quota.
+Links are conditional. Read triggered text fully; reuse unchanged rules/evidence. Recover necessary context after compaction/change. Never sweep directories, reports or cases. Report checks, limits and persistence; no compulsory receipt or worker quota.

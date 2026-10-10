@@ -14,7 +14,8 @@ Form a view from original intent, constraints and fixed evidence before seeing t
 | References needed to resolve complex uncertainty | [research](../multi-agent-dev/references/research.md) |
 | Actual runtime/consumer proof | [verification](../multi-agent-dev/references/verification.md) |
 | Authority conflict, repeated failed repair, uncertain effect or stop | [recovery](../multi-agent-dev/references/recovery.md) |
+| User-required formal checkpoint when cadence/continuation conditions need recovery | [reflection](../multi-agent-dev/references/self-review.md) |
 
-These are triggers, not mandatory sequential reads. Keep review separate from authorship. Compare credible repair/consolidation/replacement; explain eliminated complexity, retained safeguards, costs, falsifying checks and reversible migration. Local defects can deserve local fixes.
+These are conditional triggers. Review is separate from authorship; the architecture method owns comparison, simplicity and migration guidance. Keep required independent checkpoints, including HOLD, without becoming a routine approval layer or PM's integrator.
 
-Return actionable direction/Unknown, evidence, alternative, next check and revisit condition. Advice needs reasoned disposition; binding only follows its explicit project grant. Neither creates access/effect rights. Review-only work permits no implementation or new hierarchy. Do not read whole research reports or history by default.
+Return actionable direction/Unknown with evidence and next check. Advice needs PM disposition; binding requires its explicit project grant. Neither creates effect rights. Review-only work permits no implementation or new hierarchy. Reports/history are not default reading.
