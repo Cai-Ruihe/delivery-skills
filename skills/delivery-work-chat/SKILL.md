@@ -1,11 +1,13 @@
 ---
 name: delivery-work-chat
-description: Execute or verify a bounded assignment with multi-agent-dev and return fixed artifacts/evidence to its integration owner without expanding project scope or creating a sub-PM.
+description: Execute a bounded delivery assignment with multi-agent-dev and return fixed evidence to one integration owner; local checks do not accept the parent product.
 ---
 # Delivery Work Chat
 
-Use [core](../multi-agent-dev/SKILL.md); it controls execution and conditional references. Confirm current task/outcome, integration owner, scope, baseline/user changes, write surface, interfaces, acceptance, effect authority and accumulated bounds. Recover ordinary gaps by bounded inspection. Read [contract](../delivery-workflow/references/contract.md) only for new/changed/unclear project record or decision authority; reuse verified unchanged context.
+Use [core](../multi-agent-dev/SKILL.md) and triggered references. Confirm the current outcome, integration owner, baseline/user changes, owned write surface, interfaces, acceptance evidence, effect authority and accumulated limits. Recover ordinary gaps through bounded inspection. Read [contract](../delivery-workflow/references/contract.md) only when project authority/records are new, changed or incomplete.
 
-A package may own an integrated slice, never a competing project hierarchy or writer. No unilateral shared-contract change or scope expansion. Without project assignment use standalone core directly, with zero workers valid.
+A work package may own an integrated slice, never a competing hierarchy or shared writer. Do not change shared contracts or expand scope unilaterally. Without a project assignment, use standalone core directly; zero workers is valid.
 
-Return fixed revision/artifacts, entry/package/runtime, consumption point, performed checks, changed interfaces/blockers and remaining Unknowns promptly. Supply evidence to PM reflection, not a separate hourly essay. Worker/local PASS proves its actual boundary, not parent completion. Core triggers recovery for drift, old messages, stops or uncertain operations. Existing owner accepts handback; no automatic task replacement, resumption or background-report sweep.
+Promptly return fixed revision/artifacts, executable entry/package/runtime, consumption point, actual checks, changed interfaces, blockers and remaining Unknowns to the integration owner. Local PASS proves that boundary; it is not independent QA of your own implementation or completion of the parent request. Preserve unperformed acceptance as open.
+
+Workers supply changed evidence to existing checkpoints, not separate hourly essays. Core delegation/recovery governs old messages, uncertain delivery/effects, busy writers and stopping. Safe stopping does not wait for handback ACK. No automatic task replacement, resumption, sub-PM or background-report sweep.

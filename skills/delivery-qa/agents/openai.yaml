@@ -1,0 +1,4 @@
+interface:
+  display_name: "Delivery · QA"
+  short_description: "Independent product intent and acceptance verification"
+  default_prompt: "Use $delivery-qa to independently derive acceptance from the original requirements, inspect this fixed candidate, and report precise findings."

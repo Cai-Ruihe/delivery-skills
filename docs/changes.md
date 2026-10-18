@@ -1,4 +1,22 @@
-# Changes
+# Public release changes
+
+This file describes generic public revisions. It is not the owner's private development history, and contains no internal incidents, source mappings, evaluator answers or private artifacts.
+
+## delivery-skills-2026-10-18-r1
+
+The suite now has seven independently callable entries and eleven conditional references. Five files are new relative to the preceding public snapshot: the QA entry/UI, one product-acceptance protocol, conditional runtime-continuity detail and the optional bounded-task template from an intervening local revision. Complete-folder replacement retires overlapping responsibility text.
+
+1. PM owns autonomous coordination, supervision, integration, obtaining required acceptance and truthful direct reporting. An external user proxy is optional, never an internal supervisor, required relay or recovery fallback.
+2. QA independently derives checks from effective original user decisions before author routes/verdicts. It retains scoped findings, accepts fixes/counterevidence and rechecks affected versions. It neither implements then self-approves nor becomes another PM or universal deployment gate.
+3. Plan, first real user flow and final candidate provide mergeable product-check opportunities. The actual required entry, source/identity, persistence and consumer result matter. A component, fixture or deployment proves its own boundary. Authorized deployment for verification can precede a final product verdict.
+4. Shared contract, execution loop, verification methods and product judgment each have one normative home. Changes invalidate affected acceptance only; unrelated authorized work continues. Existing records are reused rather than adding shadow requirements, states or approval chains.
+5. Host-continuation detail moves out of the PM's ordinary entry. Confirmed ownership, serialized admission, races, active writers, unknown sends and original cumulative bounds retain their limits; text creates no scheduler or recovery service.
+6. Existing philosophy, simpler-architecture method, bounded research, recovery and reflection bodies are retained. Independent Architect judgment, required three-hour checkpoints, model defaults, existing UI policy, MIT and safety boundaries remain. Verified new collection may legitimately return unchanged content; source-operation evidence establishes freshness.
+7. Maintenance uses available owner-designated history without making any private file a runtime dependency. Private histories and all related internal/evaluation artifacts are excluded from this public package.
+
+The public package contains 35 files, including 29 installed-unit files. All 29 match the reviewed frozen candidate and current authorized installation byte for byte. Source-stage labels do not themselves establish installation or publication. Updated loading paths are in [context loading](context-loading.md).
+
+Independent static review and four bounded fresh-context synthetic actor tasks were completed. One historical-acceptance applicability branch was not explicitly checked in the initial QA exercise; a later directed question checked it and did not change the existing findings. Initial omission and later follow-up remain distinct. Script self-checks are not actor trials. No full planned-scenario coverage, real rendered product acceptance, live parallel-scheduling benefit, unattended host recovery, effective model/provider identity or efficiency improvement is claimed. No comparative benchmark was run. Private inputs, answers, raw results and reviews are not distributed.
 
 ## delivery-skills-2026-10-10-r1
 
@@ -30,8 +48,6 @@ This release reorganizes rule ownership and execution rather than appending a se
 6. Existing grants are reused for ordinary authorized actions. Official provenance does not expand permission. Old messages, busy writers, unknown operations and lawful stops are reconciled without automatic duplicate effects or resumption.
 7. Short entries navigate conditional references. The old PM cycle and other superseded references are retired, leaving one body per shared rule. Reflection checks whether the previous correction changed the next action rather than producing another essay.
 
-## Validation and limits
+## Release evidence limits
 
-The runtime unit contains six entries and nine references, with six UI configurations and three core auxiliary files. MIT notices are retained. Default orchestrator/worker profiles and existing specialized role invocation settings remain subject to user and host policy.
-
-Structural validation, local links, reference cycles, size, sanitization and final byte consistency are mechanical evidence. They are not model behavior trials. No efficiency, autonomy or quality improvement has been measured here. The repository has no private retrospective, research workspace, real case records, source mapping, backup or evaluator oracle.
+Earlier sections describe their own historical versions and validation state, not the current file counts. Current structural checks and bounded synthetic outcomes do not establish production delivery or general autonomous behavior. The repository contains no private retrospective, internal charter/report, source mapping, backup or evaluator fixtures/oracles/runs.

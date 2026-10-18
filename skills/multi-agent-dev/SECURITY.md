@@ -24,6 +24,6 @@ Particularly relevant issues include:
 - duplicate execution after ambiguous worker creation, delivery, termination, or outcome;
 - spoofed worker identity or requested model/effort presented as observed execution evidence;
 - model fallback that is reported as the required profile;
-- a subagent claiming root completion or bypassing Sol verification.
+- a subagent claiming parent completion or bypassing required independent verification.
 
 The skill does not make an agent, tool, repository, or external service trustworthy. Active host controls, project instructions, sandboxing, permissions, and human approval boundaries remain authoritative.

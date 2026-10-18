@@ -1,18 +1,19 @@
 ---
 name: delivery-workflow
-description: Select preparation, daily PM ownership, independent architecture judgment or bounded execution when a substantial delivery role is not already selected.
+description: Select preparation, PM, independent Architect, bounded execution or product QA when a substantial delivery role is genuinely unclear.
 ---
 # Choose a Delivery Role
 
-Use only if the role is genuinely unclear. Already selected roles start directly; this router creates no chats or authority.
+Already selected roles start directly. This router creates no chats, hierarchy or authority.
 
 | Need | Direct entry |
 |---|---|
-| Daily sequencing, supervision, integration, acceptance | [PM](../delivery-pm/SKILL.md) |
-| Independent consequential system judgment | [Architect](../delivery-architect/SKILL.md) |
+| Autonomous sequencing, coordination, integration and reporting | [PM](../delivery-pm/SKILL.md) |
+| Independent high-level system judgment | [Architect](../delivery-architect/SKILL.md) |
 | Prepare an unresolved substantial request | [Preparation](../delivery-prepare/SKILL.md) |
 | Execute/verify a bounded assignment | [Work chat](../delivery-work-chat/SKILL.md) |
+| Independent product intent, coverage and acceptance judgment | [QA](../delivery-qa/SKILL.md) |
 
-Small/standalone work uses [core](../multi-agent-dev/SKILL.md); zero workers, no hierarchy. Read only the selected entry and references whose explicit triggers apply. Links never require a transitive sweep. Reuse unchanged rules/evidence; after compaction recover active scope and necessary rules.
+Small/standalone work uses [core](../multi-agent-dev/SKILL.md), with zero workers and no delivery hierarchy. Complex product work may use parallel QA; role labels do not require resident agents. PM coordinates, resolves internal issues and reports directly to the user. An optional external user proxy only conveys user intent/decisions and receives reports; no workflow depends on one.
 
-Delivery is an optional five-folder unit requiring the independent core. Core never depends on delivery. Each runtime file stays below 500 English words. Background research, full design, cases, reviewer answers and private history are maintenance/evaluator material, never default startup context.
+Delivery is an optional six-folder unit requiring independent core. Core never depends on delivery. Read only the selected entry and references whose triggers apply; no transitive sweep. Reuse unchanged context and recover necessary rules after change/compaction. Runtime documents stay below 500 English words. Background designs, private history and evaluator cases/answers are maintenance material, not startup context.

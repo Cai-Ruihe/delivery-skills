@@ -1,21 +1,21 @@
-# Project contract in native records
+# Project authority and responsibility
 
-Read at project setup or when current native records/decision authority have changed or are incomplete. Before reuse confirm outcome, scope, owners, grants and pending operations from minimal current evidence. This agreement uses existing records, not a new schema, service or approval layer. Small standalone work uses core/session state.
+Read at setup or when native records/decision authority change or are incomplete. Confirm current outcome, scope, owners, grants and pending operations from minimal evidence before reuse. Use existing records; no new schema, service or approval layer. Small standalone work uses core/session state.
 
-| Concern | Authoritative home |
-|---|---|
-| Observable result, users/value, scope/exclusions, acceptance surface/identity | Accepted instruction or controlling PRD; PM maintains |
-| Major choices, rationale/evidence, aliases, authority and revisit conditions | Existing decision ledger; proposed/adopted or accepted/superseded |
-| Owners, write surfaces, dependencies, fixed inputs/results, integration gaps and human handoffs | Native task/run state; workers supply changes, PM integrates |
-| Allowed effects, exact target/identity, restrictions, limits | Original applicable authorization; core recovery governs disputed/uncertain action |
-| Corrections, next action/owner, observable pass/stop condition | Existing task state; PM verifies follow-through |
+## Effective requirements
 
-Persist material accepted changes before dependent work and identify superseded decisions. Failed persistence is a draft. Search prior IDs/aliases before questions; reopening needs a material contradiction and applicable research-first protocol. Messages carry changes/pointers, not shadow authoritative copies.
+Use original applicable user decisions and explicitly delegated requirement-owner decisions, then accepted PRD/design/decision records for the issue. Newer dates, draft tickets, worker summaries and implementation output do not establish greater authority. A later grant changes only its stated scope. Persist material accepted changes and superseded decisions in the original record before dependent work. Failed persistence remains a disclosed gap/draft; it does not erase an explicit user decision or authorize a shadow PRD. Search prior IDs/aliases before questions; reopen only a material contradiction.
 
-For recurring resources use the authoritative resource record if present, otherwise native task/run state: owner, purpose, authorized spend/time basis, review/end condition and disposition. Material choices use the existing decision ledger and original grants. A one-off budget does not authorize indefinite retention; stopping development does not stop billing. Reuse authorized monitoring, distinguish resource state from later actual-cost data, and do not treat estimates as invoices. Without shutdown authority, preserve service and request the smallest retention/stop decision with waiting cost. Unchanged ongoing grants need no repetitive approval.
+Existing records hold user value, scope/exclusions, required entry/identity/acceptance, decisions/reasons/revisit conditions, owners/write surfaces, dependencies, fixed results, integration gaps and original effect/time/budget limits. Messages carry pointers/changes, not competing authoritative copies.
 
-Keep four conclusions separate: project acceptance, execution/stopping under limits, artifact checks/application/consumer/parent acceptance, and contact attempt/acceptance/acknowledgment/result. Use supported native fields, not invented universal enums. Missing evidence is not zero, delivery or termination.
+## Internal responsibility and external interface
 
-PM owns daily sequencing, supervision, integration and acceptance. Architect provides independent high-level judgment. Default advice requires reasoned disposition; expressly binding architecture decisions depend on their specific project grant, never inherent role rank. Material deviation returns to the proper owner with evidence. Business/scope changes go to the user or designated requirement owner; permissions to their actual authority; binding architecture to its granted decision owner. Root coordinates or conveys exceptions only within its own authority, corrects its own relay errors, and is not a second daily manager. Its presence cannot override user constraints or tool refusals.
+PM owns effective intent, sequencing, supervision, authorized dependency coordination, integration, obtaining required acceptance and truthful direct reporting. QA owns independent product findings under [product acceptance](product-acceptance.md). Architect independently judges goals, boundaries and trade-offs; advice requires disposition, binding requires its specific project grant. Workers supply fixed results; an existing authorized publisher supplies target/readback evidence, not product acceptance. Roles create no effects.
 
-Core delegation owns human contact evidence and realistic decision timing; verification, recovery and reflection retain their respective mechanics. Major conclusions distinguish Fact/Inference/Unknown and actual Blocker with the smallest need; omit Blocker when none. Ordinary updates stay concise. Requested profiles, report counts or role invocation prove neither effective identity, independence, efficiency nor consumer success.
+Delivery operates directly with the user. An optional external human-user proxy only conveys authorized intent/decisions and receives reports: no required monitor, coordinator, relay, acceptance or recovery fallback. Ordinary technical issues stay internal. Only actual user decisions on scope, priorities, budget or new authority go through the agreed current conversation/authorized channel. QA may report unhandled findings under existing reporting authority; PM cannot suppress failures. No new communication service is required.
+
+## Resources and closeout
+
+Use the existing resource record, otherwise native task/run state: owner, purpose, authorized spend/time basis, review/end condition and disposition. A one-off budget grants no indefinite retention; stopping development does not stop billing. Distinguish resource state from actual-cost data, estimates from invoices. Without shutdown authority, preserve service and request the smallest retention/stop decision with waiting cost; unchanged ongoing grants need no repeated approval.
+
+PM reports completed/open scope, fixed candidate, required acceptance, limits, stopped/uncertain actions, resource/cleanup obligations and next owner directly. User acceptance is separate only when required; no universal sign-off gate. Contact evidence/timing uses core delegation; uncertainty and safe stopping use recovery. Host continuation alone triggers [runtime continuity](runtime-continuity.md). Keep Fact/Inference/Unknown and genuine Blocker distinct; ordinary updates stay concise.

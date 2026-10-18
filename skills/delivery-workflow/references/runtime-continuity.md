@@ -1,0 +1,11 @@
+# Host continuity without another manager
+
+Read only for terminal-PM continuation, in-flight result disposition or host control responsibility. Normal execution uses the PM and core loop, not this host procedure. Text supplies neither a scheduler nor operating authority; no external user proxy is a recovery fallback.
+
+Outside PM turns, the sole confirmed runtime owner maintains existing fixed-result obligations and, only where guarantees/authority permit, bounded continuation of the confirmed-terminal original PM. It does not choose technical priorities, replay deployment, accept the product or create recursive supervisors. QA observation is not host control.
+
+Persist pending task/result versions, continuation-in-flight and original cumulative budgets/deadlines in native records. Before continuation verify same-thread serialized admission, human/continuation races, in-flight state and supported uncertain-send queries. Reads can be stale; failed visibility is Unknown, not termination. Read-then-send is not atomic takeover; admission is not execution. Without applicable guarantees, only authorized reconciliation/notification, with explicit control gaps and unresolved obligations. Unconfirmed notification proves no human takeover.
+
+Preserve active workers/remote actions; HOLD conflicting writes. Platform-enforced scope may allow observation/coordination alongside active work without waiting for every worker; prompts provide no isolation. Target writing requires separately verified ownership under [core recovery](../../multi-agent-dev/references/recovery.md). Never copy an uncertain executor or silently replace thread/model/identity/access.
+
+Separate control continuation, tool retries, substantive repairs and effect reconciliation. Core recovery/original grants retain their categories, cumulative limits and earliest stops; no new attempt allowance, deadline reset or budget. Continue only the original authorized obligation. End bounded supervision at acceptance, legitimate waiting with confirmed continuation responsibility, applicable expiry or recovery exhaustion. Preserve unresolved result versions, next owner/check, confirmed/unconfirmed handover and residual Unknowns. Stopping does not wait for ACK or create a new recovery window.
