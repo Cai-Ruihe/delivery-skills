@@ -6,7 +6,7 @@ Read when independent product judgment is required, at plan/first-flow/final-can
 
 Read original user decisions and effective requirements/design before author routes/verdicts. Derive the requested entry, action, identity, real dependencies, visible result and scope coverage independently. Raise concrete conflicts; do not use the implementation's available features to redefine the request. Proposed requirement changes need their actual owner. Use existing native records, not a second PRD.
 
-Bind checks to effective requirement/criterion and candidate, target/configuration and material source/identity evidence. Existing versions/pointers suffice; no hash ceremony every turn. A changed requirement, candidate or key evidence invalidates affected conclusions; reuse demonstrably unaffected results. A new accepted scope does not rewrite the old version's failure.
+Bind each check to effective requirements and the same integrated executable candidate, target/configuration and material source/identity evidence. Verify actual producer input/output, field meanings, package version, execution entry/arguments and consumer result together. Source review, installation, publication and real user delivery prove separate boundaries. Existing versions/pointers suffice; no hash ceremony every turn. Changed requirements, candidates or key evidence invalidate affected conclusions; reuse unaffected results. New scope does not rewrite old failure.
 
 ## Three useful opportunities, not three approval gates
 

@@ -3,14 +3,15 @@
 Optional drafting aid for a new authorized assignment, not startup reading or a launch command. Omit inapplicable fields; use existing records and explicit Unknowns. Naming an owner proves no accepted responsibility.
 
 ```text
-Outcome: user capability, required entry/consumer/identity and acceptance evidence.
-Authority: original source, scope/exclusions, targets/effects, budgets/deadlines.
+Outcome: parent outcome reference; this increment, required entry/consumer/identity and acceptance evidence. Increment completion does not close the parent outcome.
+Authority: original source, scope/exclusions, targets/effects, user/tool hard limits and cumulative budgets/deadlines.
+Engineering targets: estimates/attempt goals with owner and revision reason; not additional user prohibitions.
 Baseline: fixed candidate/requirements and retained decisions.
 Owner: one integration owner and owned write surface; dependencies/interfaces.
-Handback: fixed artifacts, actual checks, changed interfaces, unperformed acceptance.
+Handback: fixed artifacts; actual entry-to-consumer wiring and field-meaning changes; checks and unperformed acceptance. Point to existing safe failure evidence when relevant.
 Independent judgment: required reviewer/QA and criterion/source references, if any.
 User interface: direct conversation/authorized endpoint; optional proxy may be absent.
-Native state: existing task/run home and pending result versions/dispositions.
+Native state: existing task/run home, current assignment/result binding, pending versions/dispositions; adopted guard entry and receipt location if applicable.
 Human/resource dependencies: decision opportunity, retention/exit owner/conditions.
 Next action: owner, observable pass/stop, actual escalation need.
 ```

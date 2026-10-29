@@ -1,0 +1,21 @@
+# Existing guard record contract
+
+Read when constructing or changing structured records. Reuse original round records and JSON pointers. Default pointers `/current_assignment`, `/user_grant`, `/end_review` have corresponding CLI overrides. A snapshot pin proves bytes, not continuing authority. Preserve immutable historical grants and separately identify the current applicable decision.
+
+**Assignment:** project/round/task/revision; author and original qa each `{thread_id,host_id}`; candidate_refs/input_refs; result_path. References contain path/sha256 and optional bytes. Relative reference paths use the state directory, not each nested object's directory. Candidate identity excludes generation times. Optional consumption_dir defaults to guard-consumption. Explicit empty input_refs is valid. Superseded assignments never resume old work.
+
+**PM appointment:** PM-authorized dispositions require assignment.pm_authority_ref to a fixed record: binding (project/round/task/revision), pm/author/qa identities, source_ref to the applicable original appointment evidence. Expected assignment and disposition pin that same ref. Read the source and verify actual appointment via supported native evidence: hashes/declared IDs are not authentication or permission. PM may equal author when explicitly appointed, but must differ from independent QA. Missing records do not default to author; legacy read/consumption remains available, not PM approval. Both composed and final-decision dispositions use this rule.
+
+Keep this ref outside candidate_refs/input_refs merely used to identify the reviewed product. PM changes invalidate old dispositions and expected authority, not existing QA consumption or attempt keys. Preserve old records/markers; migrate only at a safe new binding boundary with actual appointment evidence. Never amend an in-flight assignment to pass a check, replay an attempt, or bypass raw-entry refusals.
+
+**Result:** binding contains project/round/task/revision; qa, qa_turn_id, candidate_refs/input_refs, verdict. Native observation contains source=`read_thread` or `wait_threads`, thread_id/host_id/turn_id, status=completed. Supply actual supported evidence; synthetic observations are fixtures, not authentication. Active partial files cannot finalize QA. Atomic versioned markers retain first consumption and reject conflicting/partial duplicates.
+
+**Grant:** source_ref, deadline_utc, cancelled, scope, operations, capabilities; optional budget with estimated_cumulative_external_usd and strict_limit_usd. Unknown cumulative costs allow explicitly local zero-increment work, not unsupported spending. Scope retains its actual JSON type; do not silently coerce a list into a string.
+
+**Action:** operation/scope/requires/additional_external_usd/local_only. Optional binding/candidate_refs must match. Failed-test repair uses previous_candidate_refs, new_evidence_refs and next_step; renaming identical code is not a repair. A denial requires explicit local_argument/transient_local_read classification, confirmed nonexecution, new evidence and at most one same-operation retry. Access refusals stop; unknown effects permit only lawful reconciliation, no replay. Engineering targets do not replace user bounds.
+
+**QA dependencies:** optional dependent_actions maps operations to allowed verdict lists; empty means any finding. Only declared operations depend on consumption; undeclared dependencies remain the caller's responsibility.
+
+**Final decisions:** optional decision_dependencies has key/revision/kind (`advisory` or `binding`), affects (operations), fixed decision_ref and disposition_ref. Disposition pins binding/candidate_refs, original pm, decision_key/revision/ref, reason, evidence_refs and choice (`adopt`, `reject_nonbinding`, `unrelated`). Binding decisions require adopt. Relevant final advice needs reasoned disposition, not automatic acceptance. The guard compares declared data; it cannot judge relevance or discover omitted decisions. Unrelated work and authorized settlement remain available.
+
+No record supplies new permissions, extends a window or proves a reported business outcome. Inspection still checks applicable scope/capabilities/refusal. Use [transition rules](transition-checks.md) only when arranging those transitions; [review channels](review-channels.md) only for appointed review.

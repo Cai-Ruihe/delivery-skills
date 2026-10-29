@@ -6,8 +6,12 @@ description: Execute a bounded delivery assignment with multi-agent-dev and retu
 
 Use [core](../multi-agent-dev/SKILL.md) and triggered references. Confirm the current outcome, integration owner, baseline/user changes, owned write surface, interfaces, acceptance evidence, effect authority and accumulated limits. Recover ordinary gaps through bounded inspection. Read [contract](../delivery-workflow/references/contract.md) only when project authority/records are new, changed or incomplete.
 
+When an assignment explicitly adopts the guard, check its fixed current binding at resume through [result handling](../delivery-workflow/references/result-consumption.md). Do not turn historical candidates or temporary handles into current execution targets.
+
 A work package may own an integrated slice, never a competing hierarchy or shared writer. Do not change shared contracts or expand scope unilaterally. Without a project assignment, use standalone core directly; zero workers is valid.
 
 Promptly return fixed revision/artifacts, executable entry/package/runtime, consumption point, actual checks, changed interfaces, blockers and remaining Unknowns to the integration owner. Local PASS proves that boundary; it is not independent QA of your own implementation or completion of the parent request. Preserve unperformed acceptance as open.
 
 Workers supply changed evidence to existing checkpoints, not separate hourly essays. Core delegation/recovery governs old messages, uncertain delivery/effects, busy writers and stopping. Safe stopping does not wait for handback ACK. No automatic task replacement, resumption, sub-PM or background-report sweep.
+
+When a new guarded assignment pins task_context_ref, use the [caller contract](../delivery-workflow/references/caller-contract.md) on resume and the selected execution entry. Reuse fixed input/result fields; do not substitute an old task or reconstruct expected from current state.

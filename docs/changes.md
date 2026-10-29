@@ -2,6 +2,21 @@
 
 This file describes generic public revisions. It is not the owner's private development history, and contains no internal incidents, source mappings, evaluator answers or private artifacts.
 
+## delivery-skills-2026-10-30-r1
+
+This package contains 46 files: 40 runtime files and six repository documents. Runtime files match the corresponding local release exactly; repository documents provide navigation, licensing and bounded public descriptions.
+
+- PM owns the executable producer/consumer contract and the smallest observable user outcome; local checks and product acceptance remain separate.
+- One optional local facade composes existing checks and report consumption. A fixed Python test entry shares its validator with a read-only check mode. It supplies no arbitrary shell executor, scheduler or platform bypass.
+- Author, independent QA and appointed PM identities remain distinct. Explicitly appointed PM/author overlap is supported without collapsing QA independence or resetting replay protection.
+- An opt-in task context binds the current goal, roles, deadline, declared surfaces and exact helper release. Read-only inspection reports actual path and JSON-shape semantics. Existing in-flight assignments are not retrofitted.
+- Incomplete result and disposition drafts reuse structural fields; people or agents still supply judgments and evidence. A not-run result cannot authorize an accepting dependent action or accepted scope. Selected entry/action paths and outputs are checked against adopted surfaces.
+- Conditional references explain native terminal observation, review channels, transitions and continuity without requiring every task to load them.
+
+Targeted synthetic checks and independent probes cover selected local invariants. Some early checks missed contradictions later exposed by additional probes; the final fixes received focused checks, not a complete rerun of every scenario. Earlier actor observations are limited samples, not causal proof of improvements. No product acceptance, authority authentication, arbitrary child-I/O containment, or reliable cold-wakeup is established. Valid report consumption can precede an action refusal; consumption is not a child attempt. Preserve observed state when reconciling.
+
+No credentials, project records, private tests, source mappings or internal review material are included. These helpers require explicit adoption and do not control bypass routes or detect self-consistent false declarations. The selected scripts retain their own version identifier. [Loading paths](context-loading.md) distinguish ordinary work from triggered helper documentation.
+
 ## delivery-skills-2026-10-18-r1
 
 The suite now has seven independently callable entries and eleven conditional references. Five files are new relative to the preceding public snapshot: the QA entry/UI, one product-acceptance protocol, conditional runtime-continuity detail and the optional bounded-task template from an intervening local revision. Complete-folder replacement retires overlapping responsibility text.

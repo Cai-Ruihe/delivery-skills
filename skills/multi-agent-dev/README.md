@@ -1,6 +1,6 @@
 # Delivery Skills and standalone Multi-Agent Dev
 
-Candidate revision: 2026-10-18-candidate-r1. This label implies no installation, publication or behavior result.
+Revision: 2026-10-30-r1. This label alone implies no installation, publication or behavior result.
 
 Start with [core](SKILL.md) for clear standalone work; no delivery role or worker is required. For substantial work choose a role directly or use the optional `$delivery-workflow` router if the delivery folders are installed alongside core. The six delivery folders share one core and conditional references; roles are responsibilities, not a mandatory seven-agent hierarchy. User contact is direct; an external user proxy is optional.
 

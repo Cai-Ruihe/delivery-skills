@@ -12,6 +12,8 @@ Tool retries, failed substantive repairs and outcome bounds are different. Defau
 
 Escalate material architecture defects, authority/data-integrity violations, serious regressions or design-changing conflicts immediately. For important recurrence, nondiscriminating evidence or growing workarounds without acceptance improvement, make the earlier route decision in the [execution loop](execution-loop.md), with independent challenge when warranted. Absent stricter bounds, five failed repairs of the same issue is a provisional backstop, not a validated optimum or permission to keep trying: review before attempt six. Preserve counts across tasks. Pause affected unresolved repair; authorized independent lanes may continue.
 
+Agent-set test counts and interim milestones are engineering targets, not user prohibitions. Revise them for a discriminating repair within current authority, time and cumulative cost; retain failed attempts. Never relax actual user, safety or tool-enforced boundaries.
+
 Supply intent, fixed target/candidate, working route, failures, hypotheses and limits. Require actionable diagnosis/Unknown, alternatives, discriminating check and proceed condition. Prefer existing Architect/technical owner; unavailable authorized independence is a disclosed gap. Do not create a replacement chat/model automatically. Adopted decisions precede dependent work; binding decisions require execution or evidence-led escalation to their authority.
 
 ## Uncertainty and stopping

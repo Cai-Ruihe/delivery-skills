@@ -1,6 +1,6 @@
 # Delivery Skills
 
-Seven independently callable Codex skills for delivering the requested observable capability. **Version: delivery-skills-2026-10-18-r1.** The execution core works alone for small tasks without PM, Architect, QA or workers. The runtime files are identical to the reviewed frozen candidate; source-stage labels alone imply neither installation nor publication.
+Seven independently callable Codex skills for delivering the requested observable capability. **Version: delivery-skills-2026-10-30-r1.** The execution core works alone for small tasks without PM, Architect, QA or workers. The 40 runtime files match the corresponding local release byte for byte. Publication status requires a remote commit, not this label.
 
 ## Choose an entry
 
@@ -51,7 +51,9 @@ One execution loop, one product-acceptance protocol and conditional host-continu
 
 User-required three-hour independent Architect checkpoints, including HOLD, remain binding; prompts create no wakeup guarantee. Existing safety, single-writer, uncertain-send, cumulative-budget and expiry controls remain. Ordinary already-authorized reads or dependency acquisition need no extra role approval. Unknown effects cannot be automatically replayed. Stopping development is not evidence that resource billing stopped.
 
-Independent static review and four bounded fresh-context synthetic actor tasks support the checked local outcomes only. An initial QA exercise did not explicitly check one historical acceptance record; a later directed question checked its applicability. This is not an unprompted initial pass. These observations are not full scenario coverage, a model benchmark, rendered UI or production acceptance, host-control proof, or measured efficiency improvement. Private fixtures, answers and review evidence are not distributed.
+The optional [controlled local entry](skills/delivery-workflow/references/delivery-step.md) composes fixed-input checks, native reviewer observation, report consumption and a bounded local Python test. [Caller contracts](skills/delivery-workflow/references/caller-contract.md) add opt-in task and release bindings. These helpers do not intercept arbitrary tools, authenticate declarations or grant authority. They are unnecessary for a simple standalone edit.
+
+Validation is limited to static review, targeted synthetic checks and bounded independent probes. Earlier revisions include limited actor observations with omissions retained in the public change record. No general autonomous-delivery, production, race-proof sandbox, cold-wakeup or efficiency claim is made. Private fixtures, answers and review evidence are not distributed.
 
 ## Maintenance and privacy
 

@@ -15,26 +15,25 @@ Package navigation only, not mandatory agent context. Start with one selected en
 | Independent product checks, applicable nodes or disputed findings | [Product acceptance](../skills/delivery-workflow/references/product-acceptance.md) |
 | Consequential architecture or recurring structural diagnosis | [Architecture method](../skills/delivery-workflow/references/architecture-method.md) |
 | Terminal-PM continuation or host control responsibility | [Runtime continuity](../skills/delivery-workflow/references/runtime-continuity.md) |
+| Actual local guarded handoff and result consumption | [Delivery step](../skills/delivery-workflow/references/delivery-step.md) |
+| New guarded record construction or record-field diagnosis | [Guard records](../skills/delivery-workflow/references/guard-records.md) |
+| Selected bounded Python test | [Bound local step](../skills/delivery-workflow/references/bound-local-step.md) |
+| Adopted task context or uncertain actual caller fields/paths | [Caller contract](../skills/delivery-workflow/references/caller-contract.md) |
+| Reviewer route or native terminal observation | [Review channels](../skills/delivery-workflow/references/review-channels.md) |
+| Receiving a fixed independent result | [Result consumption](../skills/delivery-workflow/references/result-consumption.md) |
+| Stop, resume, handoff or other changed transition | [Transition checks](../skills/delivery-workflow/references/transition-checks.md) |
+| Internal management review ownership | [Management review](../skills/delivery-workflow/references/management-review.md) |
 
-## Static paths and explicit reuse assumptions
+## Illustrative cold loading paths
 
-Counts include headings/frontmatter and use English whitespace words, not tokens, billing or actual host exposure. Task evidence, system/tool context and each independent agent's own loading are additional.
+Counts include headings/frontmatter and use whitespace words, not tokens, billing or measured host exposure. Task evidence and tool context are additional. These paths assume no other trigger; follow actual entry instructions when one applies.
 
-| Scenario | Runtime path | Files / words |
-|---|---|---:|
-| Clear small local task | Core | 1 / 236 |
-| Ordinary PM progression; contract/checkpoint conditions already known and unchanged, no additional trigger | PM + core + loop | 3 / 809 |
-| PM coordinating current workers/results | Previous path + delegation | 4 / 1,179 |
-| PM with new/incomplete authority or records | Ordinary path + contract | 4 / 1,223 |
-| QA deriving checks with current contract already known | QA + core + product acceptance | 3 / 905 |
-| QA verifying a real consumer seam | Previous path + verification | 4 / 1,289 |
-| QA also recovering new/incomplete contract | Previous path + contract | 5 / 1,703 |
-| Complex Architect investigation triggering foundations, project authority, research and real-boundary checks | Architect + contract + philosophy + architecture method + research + verification | 6 / 2,000 |
+| Scenario | Files / words |
+|---|---:|
+| Clear small local task: core | 1 / 236 |
+| Ordinary PM progression: PM, core, execution loop; other conditions already known | 3 / 983 |
+| Complex architecture investigation: Architect, contract, philosophy, method, research, verification | 6 / 2,145 |
 
-Additional triggers add their references. Formal checkpoint conditions first recovered/changed add reflection (395 words); host control adds runtime continuity (271 words) only when relevant. Do not skip needed safety guidance to preserve a low count. Warm reuse means no reread, not zero context.
+Helper documentation is additional only when adopting or diagnosing that entry. Scripts need not be loaded in full to invoke them, but inspect relevant implementation when a defect or trust boundary requires it. Warm reuse means no reread, not zero retained context.
 
-Eighteen runtime documents total 5,561 words. Entries are 193-236 words and references 251-466 words. Core's small path grew from 219 to 236 words; the preceding local PM path fell from 1,023 to 809 by moving conditional host detail. These are text counts, not net delivery or token savings. The public predecessor did not include that intervening local continuity update.
-
-In bounded synthetic execution, a new integration PM context reported eight files/2,838 words, a QA context five/1,703, and a complex closeout PM context nine/3,089. They had additional triggers; the three-file reuse path is not their measured exposure. Read traces are actor records, not an OS access audit.
-
-The navigation graph contains conditional cycles among loop, recovery, delegation, research and verification. They point to single rule bodies and never require traversal of the whole graph or reloading unchanged text. Core alone has no delivery-file links. Background designs, history, private reviews and evaluator material are not runtime dependencies. Actual long-term loading behavior and efficiency remain unestablished.
+Conditional links can form cycles; they are navigation, not instructions to traverse the graph. Shared rules have one home. Background research, history, internal reviews and test evidence are never default runtime context. These counts do not establish measured token savings or delivery speed.
